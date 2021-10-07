@@ -1,7 +1,5 @@
-# Railway Operation Simulator Template Map 
-A brief description of what the map represents, including era, whether the route is fictional and the level of difficulty.
-
-**NOTE: Asynchronous route building is NOT supported, `.rly` files are not designed such that two versions can be combined by git. For route development contribution you must instead alternate between contributor making sure to pull the latest version before adding to it yourself.**
+# Crewe
+A simulation of the famous railway junction at Crewe.
 
 |[Edit this README and Remove the following information tables] This repository should contain ultimately:|
 |:-------|
@@ -35,7 +33,7 @@ A brief description of what the map represents, including era, whether the route
 |   `contributors`     | ☑️|  other contributing authors as list (must match ROS site author names)                |
 
 
-![Image of Current State of Map](Images/image_name.bmp)
+![Crewe](Images/Crewe.bmp)
 
 ## Current Status
 
@@ -52,8 +50,7 @@ A brief description of what the map represents, including era, whether the route
 
 ## Data Sources
 
-- A List of links pointing to various sources
-- For example:
-- [Carto Metro Paris Metro Map](http://carto.metro.free.fr/cartes/metro-paris/)
+- [TRAKSY.UK](https://traksy.uk/live/M+27+CREWE+4)
+- [OpenStreetMap](https://www.openstreetmap.org/#map=16/53.0887/-2.4336)
 
-Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com *do not remove this line*.
+Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com.
