@@ -7,7 +7,7 @@ A simulation of the famous railway junction at Crewe.
 
 | Stage         | Status        |
 | ------------- |:-------------:|
-| Track Plan     | :x: |
+| Track Plan     | :heavy_check_mark: |
 | Signalling      | :x:      |
 | Naming | :x: |
 | Speed Limits | :x: |
