@@ -9,9 +9,9 @@ A simulation of the famous railway junction at Crewe.
 | ------------- |:-------------:|
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :x:      |
-| Naming | :x: |
-| Speed Limits | :x: |
-| Distances | :x: |
+| Naming | :heavy_check_mark: |
+| Speed Limits | :heavy_check_mark: |
+| Distances | :heavy_check_mark: |
 | Timetable | :x: |
 | Documentation | :x: |
 
