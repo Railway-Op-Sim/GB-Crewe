@@ -1,9 +1,9 @@
 rly_file = "Crewe.rly"
-ttb_files = []
-ssn_files = []
+ttb_files = "Crewe May 2023.ttb"
+ssn_files = "Crewe initial session.ssn"
 country_code = "GB"
-name = ""
+name = "Crewe"
 description = ""
 display_name = "Crewe"
-author = "Kristian Zarębski"
-contributors = [ "Daniel Gill",]
+author = "RailOS Dev Team"
+release date = 
