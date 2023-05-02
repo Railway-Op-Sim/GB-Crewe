@@ -13,4 +13,4 @@ name = "Crewe"
 author = "RailOSDevTeam"
 year = 2023
 signal_position = "left"
-contributors = ["Albert Ball", "Daniel Gill", "Krizar"]
+contributors = [ "Albert Ball", "Daniel Gill", "Krizar",]
