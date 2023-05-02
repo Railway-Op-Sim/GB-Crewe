@@ -1,8 +1,8 @@
 rly_file = "Crewe.rly"
-ttb_files = [ "Crewe May 2023.ttb," ]
-img_files = [ "Crewe.bmp", ]
-ssn_files = [ "Crewe initial session.ssn", ]
-doc_files = [ "README.md", "Crewe.pdf", ]
+ttb_files = [ "Crewe May 2023.ttb,",]
+img_files = [ "Crewe.bmp",]
+ssn_files = [ "Crewe initial session.ssn",]
+doc_files = [ "README.md", "Crewe.pdf",]
 release_date = "2023-05-xx"
 version = "1.0.0"
 country_code = "GB"
@@ -13,3 +13,4 @@ name = "Crewe"
 author = "RailOSDevTeam"
 year = 2023
 signal_position = "left"
+contributors = []
